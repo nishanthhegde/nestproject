@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\SVN\\EA_Buildings"
+		},
+		{
+			"path": "..\\..\\SVN\\EA_Buildings_Master"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"vector": "c",
+			"xstring": "c",
+			"xutility": "c"
+		}
+	}
+}
